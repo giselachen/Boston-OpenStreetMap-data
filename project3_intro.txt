@@ -1,0 +1,3 @@
+# Project 3: OpenStreetMap case study -- Boston
+
+I pick Boston for this project because it's the city where I currently reside with my family. Boston is the capital of the State of Massachusetts. It's also a beautiful city that attracts a lot of tourists. For this project I will audit the street names and the zip codes. The osm file was downloaded from https://mapzen.com/data/metro-extracts/metro/boston_massachusetts/. 

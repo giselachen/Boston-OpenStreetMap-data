@@ -1,0 +1,8 @@
+1. https://mapzen.com/data/metro-extracts/metro/boston_massachusetts/
+2. http://zipcode.org/city/MA/BOSTON
+3. https://gist.github.com/carlward/54ec1c91b62a5f911c42
+4. https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+5. https://discussions.udacity.com/t/how-to-deal-with-the-data-py-code-and-csv-files/216888/11
+6. http://wiki.openstreetmap.org/wiki/Map_Features#Addresses
+7. http://stackoverflow.com/questions/3095434/inserting-newlines-in-xml-file-generated-via-xml-etree-elementtree-in-python
+8. http://stackoverflow.com/questions/2104080/how-to-check-file-size-in-python
